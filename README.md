@@ -1,1 +1,4 @@
-# Strongface-Ibifubara-K
+  | Monday | Tuesday | Wednesday | Thursday | Friday |
+| Breakfast |
+| Lunch |
+| Dinner |
