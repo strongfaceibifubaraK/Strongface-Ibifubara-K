@@ -1,4 +1,2 @@
-  | Monday | Tuesday | Wednesday | Thursday | Friday |
-| Breakfast |
-| Lunch |
-| Dinner |
+| Monday | Tuesday | Wednesday | Thursday | Friday |
+|Rice|Beans|Garri & Soup|Meat pie|Buns|
